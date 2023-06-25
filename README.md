@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rumeysa Nur
 - 👀 I’m interested in Computer Programming and Electronics
-- 🌱 I’m currently learning C, C++ ,C#, SQL, HTML, CSS and JS.
+- 🌱 I’m currently learning C, C++, SQL, HTML, CSS and JS.
 - 📫 How to reach me akpinarrumeysa1@gmail.com
 
 <!---
